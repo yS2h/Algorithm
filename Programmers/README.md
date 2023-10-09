@@ -16,5 +16,6 @@
 |  6  | 23/10/06 | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) | 12931  |     연습문제      | [보기](https://github.com/surusue/Algorithm/blob/main/Programmers/Lv.1/자릿수%20더하기.c) |
 |  7  | 23/10/07 | [3진수 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | 68935  | 월간 코드 챌린지 시즌1 | [보기](https://github.com/surusue/Algorithm/blob/main/Programmers/Lv.1/3진법%20뒤집기.c) |
 |  8  | 23/10/08 |  [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)  | 12947  |     연습문제      |  [보기](https://github.com/surusue/Algorithm/blob/main/Programmers/Lv.1/하샤드%20수.c)  |
+|  9  | 23/10/09 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)  | 76501  | 월간 코드 챌린지 시즌2 | [보기](https://github.com/surusue/Algorithm/blob/main/Programmers/Lv.1/음양%20더하기.c)  |
 
 
