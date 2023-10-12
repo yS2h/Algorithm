@@ -4,10 +4,11 @@
 
 ### 🥉 Bronze
 
-| 번호  |    날짜    |  문제 이름  |                     문제 번호                      |                                 난이도                                 |    분류    |             코드             |  
-|:---:|:--------:|:-------:|:----------------------------------------------:|:-------------------------------------------------------------------:|:--------:|:--------------------------:|
-| 01  | 23/10/10 | 이진수 변환  | [10829](https://www.acmicpc.net/problem/5522)  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |  수학, 구현  | [보기](./Bronze/이진수%20변환.c)  |  |
-| 02  | 23/10/11 | 남욱이의 닭장 | [11006](https://www.acmicpc.net/problem/11006) | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> | 수학, 사칙연산 | [보기](./Bronze/남욱이의%20닭장.c) |  |
+| 번호  |    날짜    |  문제 이름  |                     문제 번호                      |                                 난이도                                 |      분류      |             코드             |  
+|:---:|:--------:|:-------:|:----------------------------------------------:|:-------------------------------------------------------------------:|:------------:|:--------------------------:|
+| 01  | 23/10/10 | 이진수 변환  | [10829](https://www.acmicpc.net/problem/5522)  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |    수학, 구현    | [보기](./Bronze/이진수%20변환.c)  |  |
+| 02  | 23/10/11 | 남욱이의 닭장 | [11006](https://www.acmicpc.net/problem/11006) | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |   수학, 사칙연산   | [보기](./Bronze/남욱이의%20닭장.c) |  |
+| 03  | 23/10/12 |   윤년    |  [2753](https://www.acmicpc.net/problem/2753)  | <img src="https://static.solved.ac/tier_small/1.svg" width="20px"/> | 수학, 구현, 사칙연산 |    [보기](./Bronze/윤년.c)     |  |
 
 [### 🥈 Silver]:ㅇㅇ
 
