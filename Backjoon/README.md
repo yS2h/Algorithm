@@ -4,13 +4,14 @@
 
 ### 🥉 Bronze
 
-| 번호  |    날짜    |                       문제 이름                        | 문제 번호 |                                 난이도                                 |      분류      |             코드             |  
-|:---:|:--------:|:--------------------------------------------------:|:-----:|:-------------------------------------------------------------------:|:------------:|:--------------------------:|
-|  1  | 23/10/10 |   [이진수 변환](https://www.acmicpc.net/problem/5522)   | 10829 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |    수학, 구현    | [보기](./Bronze/이진수%20변환.c)  |  |
-|  2  | 23/10/11 |  [남욱이의 닭장](https://www.acmicpc.net/problem/11006)  | 11006 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |   수학, 사칙연산   | [보기](./Bronze/남욱이의%20닭장.c) |  |
-|  3  | 23/10/12 |     [윤년](https://www.acmicpc.net/problem/2753)     | 2753  | <img src="https://static.solved.ac/tier_small/1.svg" width="20px"/> | 수학, 구현, 사칙연산 |    [보기](./Bronze/윤년.c)     |  |
-|  4  | 23/10/14 |    [사과](https://www.acmicpc.net/problem/10833)     | 10833 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |              |    [보기](./Bronze/사과.c)     |  |
-|  5  | 23/10/16 |   [알람 시계](https://www.acmicpc.net/problem/2884)    | 2884  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |   수학, 사칙연산   |  [보기](./Bronze/알람%20시계.c)  |  |
+| 번호  |    날짜    |                      문제 이름                       | 문제 번호 |                                 난이도                                 |      분류      |             코드             |  
+|:---:|:--------:|:------------------------------------------------:|:-----:|:-------------------------------------------------------------------:|:------------:|:--------------------------:|
+|  1  | 23/10/10 |  [이진수 변환](https://www.acmicpc.net/problem/5522)  | 10829 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |    수학, 구현    | [보기](./Bronze/이진수%20변환.c)  |  |
+|  2  | 23/10/11 | [남욱이의 닭장](https://www.acmicpc.net/problem/11006) | 11006 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |   수학, 사칙연산   | [보기](./Bronze/남욱이의%20닭장.c) |  |
+|  3  | 23/10/12 |    [윤년](https://www.acmicpc.net/problem/2753)    | 2753  | <img src="https://static.solved.ac/tier_small/1.svg" width="20px"/> | 수학, 구현, 사칙연산 |    [보기](./Bronze/윤년.c)     |  |
+|  4  | 23/10/14 |   [사과](https://www.acmicpc.net/problem/10833)    | 10833 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |              |    [보기](./Bronze/사과.c)     |  |
+|  5  | 23/10/16 |  [알람 시계](https://www.acmicpc.net/problem/2884)   | 2884  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |   수학, 사칙연산   |  [보기](./Bronze/알람%20시계.c)  |  |
+|  6  | 23/10/18 |  [쿠키애호가](https://www.acmicpc.net/problem/11134)  | 11134 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |   수학, 사칙연산   |   [보기](./Bronze/쿠키애호가.c)   |  |
 
 [### 🥈 Silver]:ㅇㅇ
 
