@@ -22,7 +22,6 @@
 | 10  | 23/10/24 |   [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)    | 132267 |     연습문제      |     [보기](./Lv.1/콜라%20문제.c)     |
 | 11  | 23/10/25 | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)  | 12918  |     연습문제      | [보기](./Lv.1/문자열%20다루기%20기본.c)  |
 | 12  | 23/10/29 | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) | 82612  |    위클리 챌린지    | [보기](./Lv.1/부족한%20금액%20계산하기.c) |
-| 13  | 23/12/20 |  [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)  | 86051  | 월간 코드 챌린지 시즌3 |  [보기](./Lv.1/없는%20숫자%20더하기.c)  |
 
 </details>
 
@@ -30,10 +29,11 @@
 <details open>
 <summary></summary>
 
-| 번호  |    날짜    |                                   문제 이름                                   | 문제 번호  |  유형  |           코드            |
-|:---:|:--------:|:-------------------------------------------------------------------------:|:------:|:----:|:-----------------------:|
-|  1  | 23/12/19 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | 12909  | 스택/큐 | [보기](./Lv.2/올바른%20괄호.c) |
-|  2  | 23/12/20 | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | 138476 | 연습문제 | [보기](./Lv.2/귤%20고르기.c)  |
-|  3  | 23/12/21 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | 12945  | 연습문제 | [보기](./Lv.2/피보나치%20수.c) |
+| 번호  |    날짜    |                                   문제 이름                                    | 문제 번호  |  유형  |            코드            |
+|:---:|:--------:|:--------------------------------------------------------------------------:|:------:|:----:|:------------------------:|
+|  1  | 23/12/19 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)  | 12909  | 스택/큐 | [보기](./Lv.2/올바른%20괄호.c)  |
+|  2  | 23/12/20 | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)  | 138476 | 연습문제 |  [보기](./Lv.2/귤%20고르기.c)  |
+|  3  | 23/12/21 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)  | 12945  | 연습문제 | [보기](./Lv.2/피보나치%20수.c)  |
+|  4  | 23/12/22 | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | 12941  | 연습문제 | [보기](./Lv.2/최솟값%20만들기.c) |
 
 </details>
