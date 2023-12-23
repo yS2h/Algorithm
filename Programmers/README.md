@@ -29,11 +29,12 @@
 <details open>
 <summary></summary>
 
-| 번호  |    날짜    |                                   문제 이름                                    | 문제 번호  |  유형  |            코드            |
-|:---:|:--------:|:--------------------------------------------------------------------------:|:------:|:----:|:------------------------:|
-|  1  | 23/12/19 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)  | 12909  | 스택/큐 | [보기](./Lv.2/올바른%20괄호.c)  |
-|  2  | 23/12/20 | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)  | 138476 | 연습문제 |  [보기](./Lv.2/귤%20고르기.c)  |
-|  3  | 23/12/21 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)  | 12945  | 연습문제 | [보기](./Lv.2/피보나치%20수.c)  |
-|  4  | 23/12/22 | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | 12941  | 연습문제 | [보기](./Lv.2/최솟값%20만들기.c) |
+| 번호  |    날짜    |                                     문제 이름                                     | 문제 번호  |      유형       |              코드               |
+|:---:|:--------:|:-----------------------------------------------------------------------------:|:------:|:-------------:|:-----------------------------:|
+|  1  | 23/12/19 |   [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)   | 12909  |     스택/큐      |    [보기](./Lv.2/올바른%20괄호.c)    |
+|  2  | 23/12/20 |   [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)   | 138476 |     연습문제      |    [보기](./Lv.2/귤%20고르기.c)     |
+|  3  | 23/12/21 |   [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)   | 12945  |     연습문제      |    [보기](./Lv.2/피보나치%20수.c)    |
+|  4  | 23/12/22 |  [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)   | 12941  |     연습문제      |   [보기](./Lv.2/최솟값%20만들기.c)    |
+|  5  | 23/12/23 | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | 70129  | 월간 코드 챌린지 시즌1 | [보기](./Lv.2/이진%20변환%20반복하기.c) |
 
 </details>
