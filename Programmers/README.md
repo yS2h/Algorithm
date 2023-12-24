@@ -36,5 +36,6 @@
 |  3  | 23/12/21 |   [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)   | 12945  |     연습문제      |    [보기](./Lv.2/피보나치%20수.c)    |
 |  4  | 23/12/22 |  [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)   | 12941  |     연습문제      |   [보기](./Lv.2/최솟값%20만들기.c)    |
 |  5  | 23/12/23 | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | 70129  | 월간 코드 챌린지 시즌1 | [보기](./Lv.2/이진%20변환%20반복하기.c) |
+|  6  | 23/12/24 | [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)  | 12953  |     연습문제      |  [보기](./Lv.2/N개의%20최소공배수.c)   |
 
 </details>
