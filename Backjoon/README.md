@@ -16,7 +16,7 @@
 |  8  | 23/11/17 |   [다면체](https://www.acmicpc.net/problem/10569)   | 10569 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> | 수학, 기하학, 사칙연산,오일러 지표 |    [보기](./Bronze/다면체.c)    |  |
 |  9  | 23/12/28 |   [OX퀴즈](https://www.acmicpc.net/problem/8958)   | 8958  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |       구현, 문자열        |   [보기](./Bronze/OX퀴즈.c)    |  |
 | 10  | 23/12/30 | [알파벳 찾기](https://www.acmicpc.net/problem/10809)  | 10809 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |       구현, 문자열        | [보기](./Bronze/알파벳%20찾기.c)  |  |
-| 11  | 24/01/01 |   [나머지](https://www.acmicpc.net/problem/3052)    | 3052  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |       수학, 사칙연산        | [보기](./Bronze/알파벳%20찾기.c)  |  |
+| 11  | 24/01/01 |   [나머지](https://www.acmicpc.net/problem/3052)    | 3052  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |       수학, 사칙연산        |    [보기](./Bronze/나머지.c)    |  |
 
 [### 🥈 Silver]:ㅇㅇ
 
