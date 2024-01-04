@@ -27,7 +27,8 @@
 | 번호  |    날짜    |                      문제 이름                       | 문제 번호 |                                 난이도                                 |       분류       |              코드               |  
 |:---:|:--------:|:------------------------------------------------:|:-----:|:-------------------------------------------------------------------:|:--------------:|:-----------------------------:|
 |  1  | 23/01/02 |  [사이클 단어](https://www.acmicpc.net/problem/1544)  | 1544  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 구현, 자료 구조, 문자열 |   [보기](./Silver/사이클%20단어.c)   |  |
-|  2  | 23/01/03 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | 2751  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> | 정렬 | [보기](./Silver/수%20정렬하기%202.c) |  |
+|  2  | 23/01/03 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | 2751  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |       정렬       | [보기](./Silver/수%20정렬하기%202.c) |  |
+|  3  | 23/01/04 |  [단어 정렬](https://www.acmicpc.net/problem/1181)   | 1181  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |    문자열, 정렬     |    [보기](./Silver/단%20정렬.c)    |  |
 
 [### 🥇 Gold]:ㅇㅇ
 
