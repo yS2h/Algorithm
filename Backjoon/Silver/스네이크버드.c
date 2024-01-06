@@ -14,6 +14,8 @@ int main() {
         if (L >= arr[i])
             L++;
     printf("%d", L);
+    free(arr);
+    return 0;
 }
 
 int compare(const void* a, const void* b) {
