@@ -32,6 +32,7 @@
 |  4  | 23/01/05 |   [카드2](https://www.acmicpc.net/problem/2164)    | 2164  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |    자료 구조, 큐    |     [보기](./Silver/카드2.c)      |  |
 |  5  | 23/01/06 | [스네이크버드](https://www.acmicpc.net/problem/16435)  | 16435 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |       정렬       |    [보기](./Silver/스네이크버드.c)    |  |
 |  6  | 23/01/07 |   [제로](https://www.acmicpc.net/problem/10773)    | 10773 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 구현, 자료 구조, 스택  |      [보기](./Silver/제로.c)      |  |
+|  7  | 23/01/08 |   [색종이](https://www.acmicpc.net/problem/2563)    | 2563  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |       구현       |     [보기](./Silver/색종이.c)      |  |
 
 [### 🥇 Gold]:ㅇㅇ
 
