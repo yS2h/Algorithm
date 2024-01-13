@@ -36,6 +36,7 @@
 |  8  | 23/01/09 |  [대칭 차집](https://www.acmicpc.net/problem/1269)   | 1269  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |     자료 구조      |   [보기](./Silver/대칭%20차집합.c)   |  |
 |  9  | 23/01/10 |  [설탕 배달](https://www.acmicpc.net/problem/2839)   | 2839  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |       수학       |   [보기](./Silver/설탕%20배달.c)    |  |
 | 10  | 23/01/12 |   [30](https://www.acmicpc.net/problem/10610)    | 10610 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |  수학, 문자열, 정렬   |      [보기](./Silver/30.c)      |  |
+| 11  | 23/01/13 | [삼각형 만들기](https://www.acmicpc.net/problem/1448)  | 1448  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> |     수학, 정렬     | [보기](./Silver/삼각형%20만들기.cpp)  |  |
 
 [### 🥇 Gold]:ㅇㅇ
 
