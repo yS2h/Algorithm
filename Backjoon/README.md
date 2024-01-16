@@ -38,6 +38,7 @@
 | 10  | 23/01/12 |   [30](https://www.acmicpc.net/problem/10610)    | 10610 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |  수학, 문자열, 정렬   |      [보기](./Silver/30.c)      |  |
 | 11  | 23/01/13 | [삼각형 만들기](https://www.acmicpc.net/problem/1448)  | 1448  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> |     수학, 정렬     | [보기](./Silver/삼각형%20만들기.cpp)  |  |
 | 12  | 23/01/15 | [숫자 정사각형](https://www.acmicpc.net/problem/1051)  | 1051  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 구현, 브루트포스 알고리즘 | [보기](./Silver/숫자%20정사각형.cpp)  |  |
+| 13  | 23/01/16 |  [소수 구하기](https://www.acmicpc.net/problem/1929)  | 1929  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> |    수학, 정수론     |  [보기](./Silver/소수%20구하기.cpp)  |  |
 
 [### 🥇 Gold]:ㅇㅇ
 
