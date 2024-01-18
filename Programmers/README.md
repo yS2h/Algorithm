@@ -39,5 +39,6 @@
 |  6  | 23/12/24 | [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)  | 12953  |     연습문제      |  [보기](./Lv.2/N개의%20최소공배수.c)   |
 |  7  | 23/12/27 | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | 87390  | 월간 코드 챌린지 시즌3 | [보기](./Lv.2/n^2%20배열%20자르기.c) |
 |  8  | 23/01/11 |  [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)  | 12973  |   2017 팁스타운   |  [보기](./Lv.2/짝지어%20제거하기.cpp)  |
+|  9  | 23/01/18 |   [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)    | 12914  |     연습문제      |   [보기](./Lv.2/멀리%20뛰기.cpp)    |
 
 </details>
