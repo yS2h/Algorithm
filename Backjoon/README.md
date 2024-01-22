@@ -24,23 +24,24 @@
 
 ### 🥈 Silver
 
-| 번호  |    날짜    |                      문제 이름                       | 문제 번호 |                                 난이도                                 |       분류       |              코드               |  
-|:---:|:--------:|:------------------------------------------------:|:-----:|:-------------------------------------------------------------------:|:--------------:|:-----------------------------:|
-|  1  | 23/01/02 |  [사이클 단어](https://www.acmicpc.net/problem/1544)  | 1544  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 구현, 자료 구조, 문자열 |   [보기](./Silver/사이클%20단어.c)   |  |
-|  2  | 23/01/03 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | 2751  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |       정렬       | [보기](./Silver/수%20정렬하기%202.c) |  |
-|  3  | 23/01/04 |  [단어 정렬](https://www.acmicpc.net/problem/1181)   | 1181  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |    문자열, 정렬     |   [보기](./Silver/단어%20정렬.c)    |  |
-|  4  | 23/01/05 |   [카드2](https://www.acmicpc.net/problem/2164)    | 2164  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |    자료 구조, 큐    |     [보기](./Silver/카드2.c)      |  |
-|  5  | 23/01/06 | [스네이크버드](https://www.acmicpc.net/problem/16435)  | 16435 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |       정렬       |    [보기](./Silver/스네이크버드.c)    |  |
-|  6  | 23/01/07 |   [제로](https://www.acmicpc.net/problem/10773)    | 10773 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 구현, 자료 구조, 스택  |      [보기](./Silver/제로.c)      |  |
-|  7  | 23/01/08 |   [색종이](https://www.acmicpc.net/problem/2563)    | 2563  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |       구현       |     [보기](./Silver/색종이.c)      |  |
-|  8  | 23/01/09 |  [대칭 차집](https://www.acmicpc.net/problem/1269)   | 1269  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |     자료 구조      |   [보기](./Silver/대칭%20차집합.c)   |  |
-|  9  | 23/01/10 |  [설탕 배달](https://www.acmicpc.net/problem/2839)   | 2839  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |       수학       |   [보기](./Silver/설탕%20배달.c)    |  |
-| 10  | 23/01/12 |   [30](https://www.acmicpc.net/problem/10610)    | 10610 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |  수학, 문자열, 정렬   |      [보기](./Silver/30.c)      |  |
-| 11  | 23/01/13 | [삼각형 만들기](https://www.acmicpc.net/problem/1448)  | 1448  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> |     수학, 정렬     | [보기](./Silver/삼각형%20만들기.cpp)  |  |
-| 12  | 23/01/15 | [숫자 정사각형](https://www.acmicpc.net/problem/1051)  | 1051  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 구현, 브루트포스 알고리즘 | [보기](./Silver/숫자%20정사각형.cpp)  |  |
-| 13  | 23/01/16 |  [소수 구하기](https://www.acmicpc.net/problem/1929)  | 1929  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> |    수학, 정수론     |  [보기](./Silver/소수%20구하기.cpp)  |  |
-| 14  | 23/01/17 |  [두 수의 합](https://www.acmicpc.net/problem/3273)  | 3273  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> |   정렬, 두 포인터    | [보기](./Silver/두%20수의%20합.cpp) |  |
-| 15  | 23/01/20 |   [이친수](https://www.acmicpc.net/problem/2193)    | 2193  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> |   다이나믹 프로그래밍   |    [보기](./Silver/이친수.cpp)     |  |
+| 번호  |    날짜    |                        문제 이름                         | 문제 번호 |                                 난이도                                 |       분류       |                 코드                 |  
+|:---:|:--------:|:----------------------------------------------------:|:-----:|:-------------------------------------------------------------------:|:--------------:|:----------------------------------:|
+|  1  | 23/01/02 |    [사이클 단어](https://www.acmicpc.net/problem/1544)    | 1544  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 구현, 자료 구조, 문자열 |     [보기](./Silver/사이클%20단어.c)      |  |
+|  2  | 23/01/03 |   [수 정렬하기 2](https://www.acmicpc.net/problem/2751)   | 2751  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |       정렬       |   [보기](./Silver/수%20정렬하기%202.c)    |  |
+|  3  | 23/01/04 |    [단어 정렬](https://www.acmicpc.net/problem/1181)     | 1181  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |    문자열, 정렬     |      [보기](./Silver/단어%20정렬.c)      |  |
+|  4  | 23/01/05 |     [카드2](https://www.acmicpc.net/problem/2164)      | 2164  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |    자료 구조, 큐    |        [보기](./Silver/카드2.c)        |  |
+|  5  | 23/01/06 |   [스네이크버드](https://www.acmicpc.net/problem/16435)    | 16435 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |       정렬       |      [보기](./Silver/스네이크버드.c)       |  |
+|  6  | 23/01/07 |     [제로](https://www.acmicpc.net/problem/10773)      | 10773 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 구현, 자료 구조, 스택  |        [보기](./Silver/제로.c)         |  |
+|  7  | 23/01/08 |     [색종이](https://www.acmicpc.net/problem/2563)      | 2563  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |       구현       |        [보기](./Silver/색종이.c)        |  |
+|  8  | 23/01/09 |    [대칭 차집](https://www.acmicpc.net/problem/1269)     | 1269  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |     자료 구조      |     [보기](./Silver/대칭%20차집합.c)      |  |
+|  9  | 23/01/10 |    [설탕 배달](https://www.acmicpc.net/problem/2839)     | 2839  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |       수학       |      [보기](./Silver/설탕%20배달.c)      |  |
+| 10  | 23/01/12 |     [30](https://www.acmicpc.net/problem/10610)      | 10610 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |  수학, 문자열, 정렬   |        [보기](./Silver/30.c)         |  |
+| 11  | 23/01/13 |   [삼각형 만들기](https://www.acmicpc.net/problem/1448)    | 1448  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> |     수학, 정렬     |    [보기](./Silver/삼각형%20만들기.cpp)    |  |
+| 12  | 23/01/15 |   [숫자 정사각형](https://www.acmicpc.net/problem/1051)    | 1051  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 구현, 브루트포스 알고리즘 |    [보기](./Silver/숫자%20정사각형.cpp)    |  |
+| 13  | 23/01/16 |    [소수 구하기](https://www.acmicpc.net/problem/1929)    | 1929  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> |    수학, 정수론     |    [보기](./Silver/소수%20구하기.cpp)     |  |
+| 14  | 23/01/17 |    [두 수의 합](https://www.acmicpc.net/problem/3273)    | 3273  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> |   정렬, 두 포인터    |   [보기](./Silver/두%20수의%20합.cpp)    |  |
+| 15  | 23/01/20 |     [이친수](https://www.acmicpc.net/problem/2193)      | 2193  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> |   다이나믹 프로그래밍   |       [보기](./Silver/이친수.cpp)       |  |
+| 16  | 23/01/22 | [영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920) | 20920 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 자료 구조, 문자열, 정렬 | [보기](./Silver/영단어%20암기는%20괴로워.cpp) |  |
 
 [### 🥇 Gold]:ㅇㅇ
 
