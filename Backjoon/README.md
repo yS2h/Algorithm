@@ -43,6 +43,7 @@
 | 15  | 23/01/20 |     [이친수](https://www.acmicpc.net/problem/2193)      | 2193  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> |   다이나믹 프로그래밍   |       [보기](./Silver/이친수.cpp)       |  |
 | 16  | 23/01/22 | [영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920) | 20920 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> | 자료 구조, 문자열, 정렬 | [보기](./Silver/영단어%20암기는%20괴로워.cpp) |  |
 | 17  | 23/01/23 |   [후위 표기식2](https://www.acmicpc.net/problem/1935)    | 1935  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> |   자료 구조, 스택    |    [보기](./Silver/후위%20표기식2.cpp)    |  |
+| 18  | 23/01/24 |     [듣보잡](https://www.acmicpc.net/problem/1764)      | 1764  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 자료 구조, 문자열, 정렬 |       [보기](./Silver/듣보잡.cpp)       |  |
 
 [### 🥇 Gold]:ㅇㅇ
 
