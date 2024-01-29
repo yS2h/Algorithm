@@ -45,6 +45,7 @@
 | 17  | 23/01/23 |   [후위 표기식2](https://www.acmicpc.net/problem/1935)    | 1935  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/> |      자료 구조, 스택       |    [보기](./Silver/후위%20표기식2.cpp)    |  |
 | 18  | 23/01/24 |     [듣보잡](https://www.acmicpc.net/problem/1764)      | 1764  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |    자료 구조, 문자열, 정렬    |       [보기](./Silver/듣보잡.cpp)       |  |
 | 19  | 24/01/27 |    [바닥 장식](https://www.acmicpc.net/problem/1388)     | 1388  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 구현, 그래프 이론, 깊이 우선 탐색 |     [보기](./Silver/바닥%20장식.cpp)     |  |
+| 20  | 24/01/29 |   [그룹 단어 체커](https://www.acmicpc.net/problem/1316)   | 1316  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |       구현, 문자열        |  [보기](./Silver/그룹%20단어%20체커.cpp)   |  |
 
 [### 🥇 Gold]:ㅇㅇ
 
