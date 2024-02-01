@@ -47,6 +47,7 @@
 | 19  | 24/01/27 |    [바닥 장식](https://www.acmicpc.net/problem/1388)     | 1388  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | 구현, 그래프 이론, 깊이 우선 탐색 |     [보기](./Silver/바닥%20장식.cpp)     |  |
 | 20  | 24/01/29 |   [그룹 단어 체커](https://www.acmicpc.net/problem/1316)   | 1316  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/> |       구현, 문자열        |  [보기](./Silver/그룹%20단어%20체커.cpp)   |  |
 | 21  | 24/01/31 |     [스택](https://www.acmicpc.net/problem/10828)      | 10828 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |    구현, 자료 구조, 스택     |       [보기](./Silver/스택.cpp)        |  |
+| 22  | 24/02/01 |      [큐](https://www.acmicpc.net/problem/10845)       | 10845 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |       자료 구조, 큐       |        [보기](./Silver/큐.cpp)        |  |
 
 [### 🥇 Gold]:ㅇㅇ
 
