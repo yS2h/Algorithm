@@ -49,6 +49,7 @@
 | 21  | 24/01/31 |     [스택](https://www.acmicpc.net/problem/10828)      | 10828 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |    구현, 자료 구조, 스택     |       [보기](./Silver/스택.cpp)        |  |
 | 22  | 24/02/01 |      [큐](https://www.acmicpc.net/problem/10845)      | 10845 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |       자료 구조, 큐       |        [보기](./Silver/큐.cpp)        |  |
 | 23  | 24/02/02 |      [덱](https://www.acmicpc.net/problem/10866)      | 10866 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |       자료 구조, 덱       |        [보기](./Silver/덱.cpp)        |  |
+| 24  | 24/02/06 |   [균형잡힌 세상](https://www.acmicpc.net/problem/4949)    | 4949  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |      자료 구조, 스택       |    [보기](./Silver/균형잡힌%20세상.cpp)    |  |
 
 [### 🥇 Gold]:ㅇㅇ
 
