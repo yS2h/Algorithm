@@ -52,7 +52,11 @@
 | 24  | 24/02/06 |   [균형잡힌 세상](https://www.acmicpc.net/problem/4949)    | 4949  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> |      자료 구조, 스택       |    [보기](./Silver/균형잡힌%20세상.cpp)    |  |
 | 25  | 24/02/07 |    [쇠막대기](https://www.acmicpc.net/problem/10799)     | 10799 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px"/> |      자료 구조, 스택       |      [보기](./Silver/쇠막대기.cpp)       |  |
 
-[### 🥇 Gold]:ㅇㅇ
+### 🥇 Gold
+
+| 번호  |    날짜    |                     문제 이름                     | 문제 번호 |                                 난이도                                  |      분류      |            코드            |  
+|:---:|:--------:|:---------------------------------------------:|:-----:|:--------------------------------------------------------------------:|:------------:|:------------------------:|
+|  1  | 24/02/11 | [괄호의 값](https://www.acmicpc.net/problem/2504) | 2504  | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 구현, 자료구조, 스택 | [보기](./Gold/괄호의%20값.cpp) |  |
 
 
 [Bronze5]: https://static.solved.ac/tier_small/1.svg
