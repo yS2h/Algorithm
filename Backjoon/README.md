@@ -54,7 +54,8 @@
 | 24 | 24/02/06 |   [균형잡힌 세상](https://www.acmicpc.net/problem/4949)    | 4949  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/>  |      자료 구조, 스택       |    [보기](./Silver/균형잡힌%20세상.cpp)    |  |
 | 25 | 24/02/07 |    [쇠막대기](https://www.acmicpc.net/problem/10799)     | 10799 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px"/>  |      자료 구조, 스택       |      [보기](./Silver/쇠막대기.cpp)       |  |
 | 26 | 24/02/12 |    [좋은 단어](https://www.acmicpc.net/problem/3986)     | 3986  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/>  |      자료 구조, 스택       |     [보기](./Silver/좋은%20단어.cpp)     |  |
-| 27 | 24/02/20 |      [그림](https://www.acmicpc.net/problem/1926)      | 1926  | <img src="https://static.solved.ac/tier_small/10.svg" width="20px"/> |   그래프 이론, 깊이 우선 탐색   |       [보기](./Silver/그림.cpp)        |  |
+| 27 | 24/02/20 |      [그림](https://www.acmicpc.net/problem/1926)      | 1926  | <img src="https://static.solved.ac/tier_small/10.svg" width="20px"/> |   그래프 이론, 너비 우선 탐색   |       [보기](./Silver/그림.cpp)        |  |
+| 28 | 24/02/21 |    [미로 탐색](https://www.acmicpc.net/problem/2178)     | 2178  | <img src="https://static.solved.ac/tier_small/10.svg" width="20px"/> |   그래프 이론, 너비 우선 탐색   |       [보기](./Silver/그림.cpp)        |  |
 
 ### 🥇 Gold
 
