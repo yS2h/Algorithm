@@ -23,6 +23,7 @@
 | 13  | 24/02/15 | [카드 역배치](https://www.acmicpc.net/problem/10804)  | 10804 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |   구현, 시뮬레이션   |  [보기](./Bronze/카드%20역배치.cpp)   |  |
 | 14  | 24/03/13 |  [단어 공부](https://www.acmicpc.net/problem/1157)   | 1157  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    구현, 문자열    |   [보기](./Bronze/단어%20공부.cpp)   |  |
 | 15  | 24/03/14 | [삽입 정렬 1](https://www.acmicpc.net/problem/24051) | 24051 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> | 구현, 정렬, 시뮬레이션 | [보기](./Bronze/삽입%20정렬%201.cpp) |  |
+| 16  | 24/03/14 | [삽입 정렬 2](https://www.acmicpc.net/problem/24052) | 24052 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> | 구현, 정렬, 시뮬레이션 | [보기](./Bronze/삽입%20정렬%202.cpp) |  |
 
 </details>
 
