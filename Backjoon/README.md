@@ -59,6 +59,7 @@
 | 26  | 24/02/12 |    [좋은 단어](https://www.acmicpc.net/problem/3986)     | 3986  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/>  |      자료 구조, 스택       |     [보기](./Silver/좋은%20단어.cpp)     |  |
 | 27  | 24/02/20 |      [그림](https://www.acmicpc.net/problem/1926)      | 1926  | <img src="https://static.solved.ac/tier_small/10.svg" width="20px"/> |   그래프 이론, 너비 우선 탐색   |       [보기](./Silver/그림.cpp)        |  |
 | 28  | 24/02/21 |    [미로 탐색](https://www.acmicpc.net/problem/2178)     | 2178  | <img src="https://static.solved.ac/tier_small/10.svg" width="20px"/> |   그래프 이론, 너비 우선 탐색   |       [보기](./Silver/그림.cpp)        |  |
+| 29  | 24/03/26 |   [배열 합치기](https://www.acmicpc.net/problem/11728)    | 11728 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/>  |      정렬, 두 포인터       |    [보기](./Silver/배열%20합치기.cpp)     |  |
 
 ### 🥇 Gold
 
