@@ -63,6 +63,7 @@
 | 30  | 24/03/28 |    [소트인사이드](https://www.acmicpc.net/problem/1427)    | 1427  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/>  |       문자열, 정렬        |     [보기](./Silver/소트인사이드.cpp)      |  |
 | 31  | 24/03/29 |  [수 정렬하기 5](https://www.acmicpc.net/problem/15688)   | 15688 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/>  |          정렬          |  [보기](./Silver/수%20정렬하기%205.cpp)   |  |
 | 32  | 24/03/30 |    [시리얼 번호](https://www.acmicpc.net/problem/1431)    | 1431  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/>  |          정렬          |    [보기](./Silver/시리얼%20번호.cpp)     |  |
+| 33  | 24/04/04 |    [숫자 카드](https://www.acmicpc.net/problem/10815)    | 10815 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/>  | 자료 구조, 해시를 사용한 집합과 맵 |     [보기](./Silver/숫자%20카드.cpp)     |  |
 
 ### 🥇 Gold
 
