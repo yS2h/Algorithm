@@ -8,7 +8,7 @@
 
 | 번호 |    날짜    |                      문제 이름                       | 문제 번호 |                                 난이도                                 |      분류       |               코드               |  
 |:--:|:--------:|:------------------------------------------------:|:-----:|:-------------------------------------------------------------------:|:-------------:|:------------------------------:|
-| 1  | 23/10/10 |  [이진수 변환](https://www.acmicpc.net/problem/5522)  | 10829 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |    수학, 구현     |   [보기](./Bronze/이진수%20변환.c)    |  |
+| 1  | 23/10/10 | [이진수 변환](https://www.acmicpc.net/problem/10829)  | 10829 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |    수학, 구현     |   [보기](./Bronze/이진수%20변환.c)    |  |
 | 2  | 23/10/11 | [남욱이의 닭장](https://www.acmicpc.net/problem/11006) | 11006 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |   수학, 사칙연산    |   [보기](./Bronze/남욱이의%20닭장.c)   |  |
 | 3  | 23/10/12 |    [윤년](https://www.acmicpc.net/problem/2753)    | 2753  | <img src="https://static.solved.ac/tier_small/1.svg" width="20px"/> | 수학, 구현, 사칙연산  |      [보기](./Bronze/윤년.c)       |  |
 | 4  | 23/10/14 |   [사과](https://www.acmicpc.net/problem/10833)    | 10833 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |   수학, 사칙연산    |      [보기](./Bronze/사과.c)       |  |
@@ -72,6 +72,7 @@
 | 36 | 24/04/10 | [인사성 밝은 곰곰이](https://www.acmicpc.net/problem/25192)  | 25192 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/>  | 자료 구조, 해시를 사용한 집합과 맵 | [보기](./Silver/인사성%20밝은%20곰곰이.cpp)  |  |
 | 36 | 24/05/05 |     [바이러스](https://www.acmicpc.net/problem/2606)     | 2606  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/>  |   그래프 이론, 깊이 우선 탐색   |      [보기](./Silver/바이러스.cpp)       |  |
 | 37 | 24/06/06 |     [촌수계산](https://www.acmicpc.net/problem/2644)     | 2644  | <img src="https://static.solved.ac/tier_small/9.svg" width="20px"/>  |   그래프 이론, 깊이 우선 탐색   |      [보기](./Silver/촌수계산.cpp)       |  |
+| 38 | 25/01/04 |    [청기 백기](https://www.acmicpc.net/problem/15736)    | 15736 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/>  |       수학, 정수론        |     [보기](./Silver/청기%20백기.cpp)     |  |
 
 ### 🥇 Gold
 
