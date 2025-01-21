@@ -26,7 +26,8 @@
 | 16 | 24/03/14 | [삽입 정렬 2](https://www.acmicpc.net/problem/24052) | 24052 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> | 구현, 정렬, 시뮬레이션 | [보기](./Bronze/삽입%20정렬%202.cpp) |  |
 | 37 | 24/04/12 |  [세로읽기](https://www.acmicpc.net/problem/10798)   | 10798 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    구현, 문자열    |    [보기](./Bronze/세로읽기.cpp)     |  |
 | 38 | 24/04/27 |    [약수](https://www.acmicpc.net/problem/1037)    | 1037  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    수학, 정수론    |     [보기](./Bronze/약수.cpp)      |  |
-| 39 | 24/04/28 |   [하얀 칸](https://www.acmicpc.net/problem/1037)   | 1100  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |    구현, 문자열    |   [보기](./Bronze/하얀%20칸.cpp)    |  |
+| 39 | 24/04/28 |   [하얀 칸](https://www.acmicpc.net/problem/1100)   | 1100  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |    구현, 문자열    |   [보기](./Bronze/하얀%20칸.cpp)    |  |
+| 40 | 25/01/21 | [진법 변환 2](https://www.acmicpc.net/problem/11005) | 11005 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    수학, 구현     | [보기](./Bronze/진법%20변환%202.cpp) |  |
 
 </details>
 
