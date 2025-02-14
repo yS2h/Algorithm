@@ -74,6 +74,7 @@
 | 36 | 24/05/05 |     [바이러스](https://www.acmicpc.net/problem/2606)     | 2606  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/>  |   그래프 이론, 깊이 우선 탐색   |      [보기](./Silver/바이러스.cpp)       |  |
 | 37 | 24/06/06 |     [촌수계산](https://www.acmicpc.net/problem/2644)     | 2644  | <img src="https://static.solved.ac/tier_small/9.svg" width="20px"/>  |   그래프 이론, 깊이 우선 탐색   |      [보기](./Silver/촌수계산.cpp)       |  |
 | 38 | 25/01/04 |    [청기 백기](https://www.acmicpc.net/problem/15736)    | 15736 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/>  |       수학, 정수론        |     [보기](./Silver/청기%20백기.cpp)     |  |
+| 39 | 25/02/14 |   [배열 복원하기](https://www.acmicpc.net/problem/16967)   | 16967 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/>  |       구현             |    [보기](./Silver/배열%20복원하기.cpp)    |  |
 
 ### 🥇 Gold
 
