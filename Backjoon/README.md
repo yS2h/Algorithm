@@ -29,6 +29,7 @@
 | 19 | 24/04/28 |   [하얀 칸](https://www.acmicpc.net/problem/1100)   | 1100  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |    구현, 문자열    |   [보기](./Bronze/하얀%20칸.cpp)    |  |
 | 20 | 25/01/21 | [진법 변환 2](https://www.acmicpc.net/problem/11005) | 11005 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    수학, 구현     | [보기](./Bronze/진법%20변환%202.cpp) |  |
 | 21 | 25/02/20 |   [에어팟](https://www.acmicpc.net/problem/25495)   | 25495 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |   구현, 시뮬레이션   |     [보기](./Bronze/에어팟.cpp)     |  |
+| 22 | 25/02/28 |   [비밀편지](https://www.acmicpc.net/problem/2596)   | 2596  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    구현, 문자열    |    [보기](./Bronze/비밀편지.cpp)     |  |
 
 </details>
 
