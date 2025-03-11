@@ -30,6 +30,7 @@
 | 20 | 25/01/21 | [진법 변환 2](https://www.acmicpc.net/problem/11005) | 11005 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    수학, 구현     | [보기](./Bronze/진법%20변환%202.cpp) |  |
 | 21 | 25/02/20 |   [에어팟](https://www.acmicpc.net/problem/25495)   | 25495 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |   구현, 시뮬레이션   |     [보기](./Bronze/에어팟.cpp)     |  |
 | 22 | 25/02/28 |   [비밀편지](https://www.acmicpc.net/problem/2596)   | 2596  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    구현, 문자열    |    [보기](./Bronze/비밀편지.cpp)     |  |
+| 23 | 25/03/06 |  [팰린드롬수](https://www.acmicpc.net/problem/1259)   | 1259  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |    구현, 문자열    |    [보기](./Bronze/팰린드롬수.cpp)    |  |
 
 </details>
 
@@ -79,6 +80,7 @@
 | 39 | 25/02/14 |   [배열 복원하기](https://www.acmicpc.net/problem/16967)   | 16967 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/>  |          구현          |    [보기](./Silver/배열%20복원하기.cpp)    |  |
 | 40 | 25/02/24 |  [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)  | 11725 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px"/>  |   그래프 이론, 너비 우선 탐색   |  [보기](./Silver/트리의%20부모%20찾기.cpp)  |  |
 | 41 | 25/02/27 |   [나뭇잎 학회](https://www.acmicpc.net/problem/26005)    | 26005 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/>  |    수학, 애드 혹, 사칙연산    |    [보기](./Silver/나뭇잎%20학회.cpp)     |  |
+| 42 | 25/03/10 |   [풍선 터뜨리기](https://www.acmicpc.net/problem/2346)    | 2346  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/>  |       자료구조, 덱        |    [보기](./Silver/풍선%20터뜨리기.cpp)    |  |
 
 ### 🥇 Gold
 
