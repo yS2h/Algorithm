@@ -82,10 +82,11 @@
 
 ### 🥇 Gold
 
-| 번호  |    날짜    |                     문제 이름                      | 문제 번호 |                                 난이도                                  |      분류      |            코드             |  
-|:---:|:--------:|:----------------------------------------------:|:-----:|:--------------------------------------------------------------------:|:------------:|:-------------------------:|
-|  1  | 24/02/11 | [괄호의 값](https://www.acmicpc.net/problem/2504)  | 2504  | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> | 구현, 자료구조, 스택 | [보기](./Gold/괄호의%20값.cpp)  |  |
-|  2  | 24/02/25 | [암호 만들기](https://www.acmicpc.net/problem/1759) | 1759  | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> |   수학, 백트래킹   | [보기](./Gold/암호%20만들기.cpp) |  |
+| 번호  |    날짜    |                     문제 이름                      | 문제 번호 |                                 난이도                                  |       분류       |            코드             |  
+|:---:|:--------:|:----------------------------------------------:|:-----:|:--------------------------------------------------------------------:|:--------------:|:-------------------------:|
+|  1  | 24/02/11 | [괄호의 값](https://www.acmicpc.net/problem/2504)  | 2504  | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> |  구현, 자료구조, 스택  | [보기](./Gold/괄호의%20값.cpp)  |  |
+|  2  | 24/02/25 | [암호 만들기](https://www.acmicpc.net/problem/1759) | 1759  | <img src="https://static.solved.ac/tier_small/11.svg" width="20px"/> |    수학, 백트래킹    | [보기](./Gold/암호%20만들기.cpp) |  |
+|  3  | 24/03/11 |  [개미굴](https://www.acmicpc.net/problem/14725)  | 14725 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px"/> | 자료구조, 문자열, 트라이 |   [보기](./Gold/개미굴.cpp)    |  |
 
 
 [Bronze5]: https://static.solved.ac/tier_small/1.svg
