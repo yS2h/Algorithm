@@ -81,7 +81,8 @@
 | 40 | 25/02/24 |  [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)  | 11725 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px"/>  |   그래프 이론, 너비 우선 탐색   |  [보기](./Silver/트리의%20부모%20찾기.cpp)  |  |
 | 41 | 25/02/27 |   [나뭇잎 학회](https://www.acmicpc.net/problem/26005)    | 26005 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/>  |    수학, 애드 혹, 사칙연산    |    [보기](./Silver/나뭇잎%20학회.cpp)     |  |
 | 42 | 25/03/10 |   [풍선 터뜨리기](https://www.acmicpc.net/problem/2346)    | 2346  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px"/>  |       자료구조, 덱        |    [보기](./Silver/풍선%20터뜨리기.cpp)    |  |
-| 43 | 25/03/12 |     [돌 게임](https://www.acmicpc.net/problem/9655)     | 9655  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/>  |    수학, 다이나믹 프로그래밍    |      [보기](./Silver/돌%2게임.cpp)      |  |
+| 43 | 25/03/12 |     [돌 게임](https://www.acmicpc.net/problem/9655)     | 9655  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/>  |    수학, 다이나믹 프로그래밍    |     [보기](./Silver/돌%20게임.cpp)      |  |
+| 44 | 25/03/13 |   [접미사 배열](https://www.acmicpc.net/problem/11656)    | 11656 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/>  |       문자열, 정렬        |    [보기](./Silver/접미사%20배열.cpp)     |  |
 
 ### 🥇 Gold
 
