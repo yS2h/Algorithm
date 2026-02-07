@@ -36,6 +36,7 @@
 | 26 | 26/02/05 |  [핸드폰 요금](https://www.acmicpc.net/problem/1267)  | 1267  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px"/> |   수학, 사칙연산    |  [보기](./Bronze/핸드폰%20요금.cpp)   |  |
 | 27 | 26/02/06 |  [숫자의 개수](https://www.acmicpc.net/problem/2577)  | 2577  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |    수학, 구현     |  [보기](./Bronze/숫자의%20개수.cpp)   |  |
 | 28 | 26/02/07 |   [대표값2](https://www.acmicpc.net/problem/2587)   | 2587  | <img src="https://static.solved.ac/tier_small/4.svg" width="20px"/> |    수학, 구현     |    [보기](./Bronze/대표값2.cpp)     |  |
+| 29 | 26/02/07 |  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  | 2309  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> |  브루트포스 알고리즘   |  [보기](./Bronze/일곱%20난쟁이.cpp)   |  |
 
 </details>
 
