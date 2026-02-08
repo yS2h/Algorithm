@@ -91,6 +91,7 @@
 | 43  | 25/03/18 |     [국영수](https://www.acmicpc.net/problem/10825)     | 10825 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/>  |          정렬          |       [보기](./Silver/국영수.cpp)       |  |
 | 43 | 25/03/12 |     [돌 게임](https://www.acmicpc.net/problem/9655)     | 9655  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/>  |    수학, 다이나믹 프로그래밍    |     [보기](./Silver/돌%20게임.cpp)      |  |
 | 44 | 25/03/13 |   [접미사 배열](https://www.acmicpc.net/problem/11656)    | 11656 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/>  |       문자열, 정렬        |    [보기](./Silver/접미사%20배열.cpp)     |  |
+| 44 | 25/02/09 |     [방 번호](https://www.acmicpc.net/problem/1475)     | 1475  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px"/>  |          구현          |     [보기](./Silver/방%20번호.cpp)      |  |
 
 ### 🥇 Gold
 
